@@ -48,6 +48,7 @@ The output should demonstrate clear source attribution - every insight must be t
 ## Technology Requirements
 
 - **Language**: Python (required - must match our stack)
+- **Package Management**: We recommend using [uv](https://github.com/astral-sh/uv) for fast, reliable dependency management
 - **LLM Integration**: Any provider (e.g., LiteLLM supports multiple providers including local models via Ollama)
 - **Optional frameworks**:
   - DSPy for structured prompting
