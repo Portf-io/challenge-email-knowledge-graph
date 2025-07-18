@@ -1,6 +1,6 @@
 # Communication Knowledge Graph Challenge
 
-Welcome to the 48-hour Communication Knowledge Graph challenge!
+Welcome to the Communication Knowledge Graph challenge!
 
 ## The Challenge
 
